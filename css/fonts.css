@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Acrom';
+    font-display: swap;
+    src: url('fonts/Acrom-Regular.eot');
+    src: local('Acrom Regular'), local('Acrom-Regular'),
+    url('fonts/Acrom-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Acrom-Regular.woff') format('woff'),
+    url('fonts/Acrom-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Acrom Bold';
+    font-display: swap;
+    src: url('fonts/Acrom-Bold.eot');
+    src: local('Acrom Bold'), local('Acrom-Bold'),
+    url('fonts/Acrom-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Acrom-Bold.woff') format('woff'),
+    url('fonts/Acrom-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
